@@ -1,0 +1,44 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    min-height: 80vh;
+}
+
+.myBar{
+    width: 500px;
+    height: 20px;
+    background: #ddd;
+    margin-top: 10px;
+}
+
+.progress{
+    width: 1px;
+    height: 20px;
+    background: green;
+    transition: ease-in 0.2s;
+}
+
+.downloadBtn{
+    margin-top: 20px;
+    width: 80px;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    background: green;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
