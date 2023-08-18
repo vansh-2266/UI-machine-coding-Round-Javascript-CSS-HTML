@@ -1,6 +1,7 @@
+<h1 align="Center">Frontend UI Machine Coding </h1>
 <br/>
 <p align="center">
-  <a href="https://github.com/@vansh-2266/UI-machine-coding-Round-Javascript-CSS-HTML-For-Frontend-Interviews.">
+  <a href="https://github.com/vansh-2266/UI-machine-coding-Round-Javascript-CSS-HTML">
     <img src="https://cdn.marketing.avocode.com/pupushify-production/frontend_6f5f5d3947.png" alt="Logo" width="80" height="80">
   </a>
 
